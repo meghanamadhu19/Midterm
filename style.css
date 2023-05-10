@@ -10,14 +10,10 @@ body{
    padding-left: 10%;
    
   }
-  
-
 .grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
-
-
 article {
   margin: 2px;
   background-color:rgb(223, 251, 223);
